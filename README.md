@@ -42,8 +42,6 @@ Setup and Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/furniture-rental-app.git
-Navigate to the project directory:
 bash
 Copy code
 cd furniture-rental-app
