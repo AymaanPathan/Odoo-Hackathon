@@ -1,0 +1,36 @@
+@media screen and (min-width: 1024px) {
+  .deal__main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .deal_head_main {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .deal__main {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  .deal_head_main {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .deal__main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4rem;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .deal_head_main {
+    padding: 10 8px;
+  }
+}

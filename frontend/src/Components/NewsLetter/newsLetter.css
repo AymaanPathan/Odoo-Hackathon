@@ -1,0 +1,122 @@
+@media screen and (max-width: 976px) {
+  .newsLetter-main {
+    height: 22rem;
+  }
+  .newsLetter-body {
+    font-size: 23px;
+  }
+  .newsLetter-img {
+    width: 22rem;
+    height: 100%;
+  }
+  .news-letter-input {
+    height: 3rem;
+  }
+  .news-letter-btn {
+    height: 34px;
+    padding: 0 12px;
+  }
+}
+
+@media screen and (max-width: 790px) {
+  .newsLetter-main {
+    height: 22rem;
+  }
+  .newsLetter-body {
+    font-size: 16px;
+  }
+  .newsLetter-img {
+    width: 22rem;
+    height: 100%;
+  }
+  .news-letter-input {
+    height: 2.7rem;
+  }
+  .news-letter-btn {
+    padding: 0 12px;
+  }
+  .news-letter-Subtitle {
+    font-size: 12px;
+  }
+  .user-input {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .news-letter-heading {
+    font-size: 18px;
+  }
+  .newsLetter-body {
+    font-size: 10px;
+  }
+  .newsLetter-main {
+    height: 50%;
+  }
+  .news-letter-Subtitle {
+    font-size: 10px;
+  }
+  .newsLetter-img {
+    width: 22rem;
+    height: 100%;
+  }
+  .user-input {
+    width: 70%;
+    font-size: 12px;
+    height: 3rem;
+    font-size: 8px;
+    border: none;
+  }
+  .news-letter-btn {
+    padding: 3px 12px;
+  }
+}
+
+/* @media screen and (max-width: 395px) {
+  .news-letter-heading {
+    font-size: 12px;
+  }
+  .newsLetter-body {
+    font-size: 10px;
+  }
+  .newsLetter-main {
+    height: 20%;
+  }
+  .news-letter-Subtitle {
+    font-size: 10px;
+  }
+  .newsLetter-img {
+    width: 22rem;
+    height: 100%;
+  }
+  .user-input {
+    width: 100%;
+    font-size: 12px;
+  }
+} */
+
+@media screen and (max-width: 385px) {
+  .news-letter-heading {
+    font-size: 12px;
+  }
+  .newsLetter-body {
+    font-size: 10px;
+  }
+  .newsLetter-main {
+    height: 20%;
+  }
+  .news-letter-Subtitle {
+    font-size: 6px;
+  }
+  .newsLetter-img {
+    width: 12rem;
+    height: 100%;
+  }
+  .user-input {
+    width: 50%;
+    font-size: 12px;
+    height: 3rem;
+    font-size: 8px;
+    border: none;
+  }
+}

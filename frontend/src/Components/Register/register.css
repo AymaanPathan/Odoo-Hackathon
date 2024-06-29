@@ -1,0 +1,45 @@
+.main_register {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Adjustments for medium screens (tablets) */
+@media screen and (max-width: 1024px) {
+  .main_register {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    align-items: center;
+  }
+  .register-img-div {
+    display: none;
+  }
+}
+
+/* Adjustments for small screens (mobile phones) */
+@media screen and (max-width: 768px) {
+  .main_register {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    align-items: center;
+  }
+  .register-img-div {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .main_register {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    align-items: center;
+  }
+  .register-img-div {
+    display: none;
+  }
+  .sign_text {
+    font-size: 22px;
+  }
+}

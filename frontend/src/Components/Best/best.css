@@ -1,0 +1,11 @@
+@media screen and (max-width: 1024px) {
+  .best-container {
+    display: grid;
+    justify-content: center;
+    gap: 50px;
+  }
+  .best-head-sub {
+    margin: 0;
+    padding: 0;
+  }
+}
