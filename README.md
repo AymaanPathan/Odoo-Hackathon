@@ -1,3 +1,7 @@
+<img width="947" alt="image" src="https://github.com/AymaanPathan/Odoo-Hackathon/assets/118355098/853edb40-390d-44eb-a648-f4e8817a518e">
+
+
+
 Furniture Rental Application
 Table of Contents
 Introduction
